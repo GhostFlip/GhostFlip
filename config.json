@@ -1,0 +1,6 @@
+{
+    "formula": "main",
+    "mode": "crash",
+	"webhook": "https://discord.com/api/webhooks/",
+    "_comment": "ALL CONFIG OPTIONS ARE CURRENTLY USELESS AS THESE FEATURES HAVE NOT BEEN ADDED YET!"
+}
